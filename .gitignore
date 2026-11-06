@@ -1,0 +1,18 @@
+.DS_Store
+Thumbs.db
+*.3mf~
+*.f3d~
+*.bak
+
+# Original local captures are preserved in the working folder. Curated,
+# resized copies live under media/ and the neutral CAD export under cad/step/.
+/20261023_163750.jpg
+/20261105_135436.jpg
+/20261105_135510.jpg
+/20261105_151723.jpg
+/Screenshot_20261105_152750.jpg
+/Screenshot_20261105_152819.jpg
+/Screenshot_20261105_152833.jpg
+/response.jpg
+/SONOS_CASE_RECTANGULAR_V1.step
+

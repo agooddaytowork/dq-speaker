@@ -1,0 +1,12 @@
+Category,Part,Specification,Quantity per speaker,Recorded unit cost VND,Notes
+Audio,Reclaimed B&O two-way speaker module,Complete aluminium module,1,378400,"Derived from a discounted purchase of two modules; availability varies"
+Electronics,LF03S DSP amplifier,2x25 W Mvsilicon board with USB-C charging and controls,1,315400,"Derived from a discounted purchase of two boards; vendor firmware/app not included"
+Power,Li-ion battery pack,7.4 V 5000 mAh 10 A protected pack,1,185000,"Use only with a suitable BMS and charger"
+Printed,PETG filament,Bambu Lab PETG orange and grey,TBD,TBD,"Measure final slicer estimate before public release"
+Fastener,M3 heat-set insert,Approx. 4.6 mm OD x 5.7 mm length,12,TBD,"Verify against the actual inserts before heating"
+Fastener,M3 x 16 mm socket screw,Frame and bottom cap,8,TBD,"Four join the frame; four secure the bottom"
+Fastener,M3 x 20 mm socket screw,Top cap with V handle,4,TBD,"Do not substitute M3 x 30 without checking internal clearance"
+Fastener,M2 x 10 mm screw,Optional electronics mounting,As needed,TBD,"Use only where the installed board requires it"
+Hardware,Rubber foot,10 mm diameter,4,TBD,"Optional but recommended"
+Consumable,Wire and insulation,Silicone wire heat-shrink and strain relief,As needed,TBD,
+
