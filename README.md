@@ -4,6 +4,8 @@ A compact, battery-powered, two-way speaker built around a reclaimed Google
 Nest Audio speaker assembly, an LF03S DSP amplifier, and a fully 3D-printed PETG
 enclosure.
 
+[Read the blog: Nest Audio drivers, LF03S DSP tuning, and the story behind the build](https://tamduongs.com/blog/dq-speaker-nest-audio-lf03s-dsp-tuning)
+
 ![Finished DQ Speaker](media/dq-speaker-hero.jpg)
 
 This repository contains the mechanical design: print-ready STL files, the
