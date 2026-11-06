@@ -1,5 +1,5 @@
 Category,Part,Specification,Quantity per speaker,Recorded unit cost VND,Notes
-Audio,Reclaimed B&O two-way speaker module,Complete aluminium module,1,378400,"Derived from a discounted purchase of two modules; availability varies"
+Audio,Reclaimed Google Nest Audio speaker assembly,Two-way speaker hardware without original electronics,1,378400,"Derived from a discounted purchase of two assemblies; availability varies"
 Electronics,LF03S DSP amplifier,2x25 W Mvsilicon board with USB-C charging and controls,1,315400,"Derived from a discounted purchase of two boards; vendor firmware/app not included"
 Power,Li-ion battery pack,7.4 V 5000 mAh 10 A protected pack,1,185000,"Use only with a suitable BMS and charger"
 Printed,PETG filament,Bambu Lab PETG orange and grey,TBD,TBD,"Measure final slicer estimate before public release"

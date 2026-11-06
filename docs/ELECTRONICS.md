@@ -2,7 +2,8 @@
 
 ## Signal and power path
 
-The prototype uses one reclaimed B&O two-way module, one LF03S 2 × 25 W DSP
+The prototype uses one reclaimed Google Nest Audio two-way speaker assembly
+without its original electronics, one LF03S 2 × 25 W DSP
 amplifier and one 7.4 V lithium battery pack. The board provides the amplifier,
 DSP controls and USB-C charging interface used in the build.
 
@@ -23,7 +24,9 @@ Verify channel assignment and DSP crossover settings before increasing volume.
 ## DSP used during the prototype
 
 The vendor mobile application was used for crossover, channel gain and output
-EQ. REW measurements were taken while iterating the enclosure. Screenshots in
+EQ. The REW graph in `media/frequency-response.jpg` shows the raw mid/bass and
+treble measurements alongside the purple response after crossover tuning.
+Screenshots in
 `media/` are development records, not universal presets: driver modules,
 placement and rooms differ, so measure your own build.
 

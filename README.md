@@ -1,7 +1,7 @@
 # DQ Speaker
 
-A compact, battery-powered, two-way speaker built around a reclaimed B&O
-aluminium driver module, an LF03S DSP amplifier, and a fully 3D-printed PETG
+A compact, battery-powered, two-way speaker built around a reclaimed Google
+Nest Audio speaker assembly, an LF03S DSP amplifier, and a fully 3D-printed PETG
 enclosure.
 
 ![Finished DQ Speaker](media/dq-speaker-hero.jpg)
@@ -15,8 +15,10 @@ it public after the files and instructions have had one final physical review.
 
 ## Why this exists
 
-I found a pair of complete B&O two-way aluminium speaker modules and wanted to
-reuse them without building another oversized box around the original box.
+While researching tuning and other DSP products for my DQ-DSP project, I found
+Google Nest Audio speaker assemblies on Shopee with the original electronics
+removed. Their audio characteristics were surprisingly good, and the LF03S
+board and its tuning app made them a useful platform for crossover experiments.
 The result is a 135 × 99 mm rectangular enclosure whose frame carries the
 speaker module, while the ventilated sleeve is trapped between the top and
 bottom caps.
@@ -73,7 +75,7 @@ fork the parametric construction.
 
 The enclosure CAD, meshes, scripts and documentation in this repository are
 licensed under MIT. The LF03S board firmware and its mobile DSP application
-are vendor software and are **not** part of this repository. The B&O and Sonos
+are vendor software and are **not** part of this repository. The Google Nest Audio and Sonos
 names belong to their respective owners; this is an independent reuse project
 and is not affiliated with or endorsed by either company.
 

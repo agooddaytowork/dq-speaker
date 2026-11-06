@@ -15,7 +15,7 @@ install underneath the handle.
 
 1. **Dry-fit the donor module.** Place it between the front and rear frame
    halves. Confirm the 4.2 mm front columns and 6 mm rear bosses align without
-   forcing the aluminium module.
+   forcing the donor speaker assembly.
 2. **Install the frame inserts.** Heat-set them straight and allow the PETG to
    cool completely.
 3. **Join the frame.** Use four M3 × 16 screws. Tighten gradually in a cross
